@@ -93,4 +93,5 @@ C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\refint\Assignment6.dll
 C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\Assignment6.pdb
 C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\Assignment6.genruntimeconfig.cache
 C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\ref\Assignment6.dll
-C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\compressed\z0ixg3logl-odzertq0h5.gz
+C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\Assignment6.sourcelink.json
+C:\Users\rayba\RiderProjects\Assignment6\obj\Debug\net9.0\compressed\z0ixg3logl-amo5d7udbz.gz
